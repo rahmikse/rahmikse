@@ -44,9 +44,9 @@ Every day I learn new methods and improve myself
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/rahmikse
-[css] :https://www.w3schools.com/css/
-[html] :https://www.w3schools.com/html/
-[tailwind]: https://tailwindcss.com/
+[css]:https://www.w3schools.com/css/
+[html]:https://www.w3schools.com/html/
+[tailwind]:https://tailwindcss.com/
 [bootstrap]:https://getbootstrap.com/
 <br />
 <br />
