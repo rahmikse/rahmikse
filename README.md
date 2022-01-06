@@ -8,7 +8,7 @@
 
 ## ⏲ What am i doing now:
 I'm developing a  React projects for my github🚀
-I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
+Every day I learn new methods and improve myself
 
 
 <br />
@@ -34,13 +34,20 @@ I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍�
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png"/>][react]
-
+[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/>][css]
+[<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/>][html]
+[<img align="left" alt="Tailwind-css" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tailwind/tailwind.png"/>][tailwind]
+[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/bootstrap/bootstrap.png"/>][bootstrap]
 <br />
 
 [react]: https://tr.reactjs.org/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/rahmikse
+[css] :https://www.w3schools.com/css/
+[html] :https://www.w3schools.com/html/
+[tailwind]: https://tailwindcss.com/
+[bootstrap]:https://getbootstrap.com/
 <br />
 <br />
 
