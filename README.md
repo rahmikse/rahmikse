@@ -43,6 +43,7 @@ Every day I learn new methods and improve myself
 <br />
 
 [react]: https://tr.reactjs.org/
+[redux]: https://redux.js.org/
 [JavaScript]:https://www.javascript.com/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
