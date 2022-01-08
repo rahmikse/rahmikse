@@ -36,6 +36,7 @@ Every day I learn new methods and improve myself
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/react/react.png"/>][react]
 [<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/redux/redux.png"/>][redux]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/javascript/javascript.png"/>][JavaScript]
+[<img align="left" alt="Grqphql" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/graphql/graphql.png"/>][graphql]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/css/css.png"/>][css]
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/html/html.png"/>][html]
 [<img align="left" alt="Tailwind-css" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/tailwind/tailwind.png"/>][tailwind]
@@ -45,6 +46,7 @@ Every day I learn new methods and improve myself
 [react]: https://tr.reactjs.org/
 [redux]: https://redux.js.org/
 [JavaScript]:https://www.javascript.com/
+[graphql]:https://www.apollographql.com/
 [vsCode]: https://code.visualstudio.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/rahmikse
