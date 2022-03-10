@@ -1,8 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Front-end Developer 🚀
-- 🔭 I am currently open to work and looking for a job as a Front-end Developer.
-- 🥅 2022 Goals: Getting started as a front-end developer 💻. Improve my English
+
 
 
 
