@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Rahmi<br>I'm Front-end Developer at Havas CX Istanbul<br><br>
+Hi 👋, I'm Rahmi<br>I'm Front-end Developer<br><br>
 
 
 ## 🌐 Socials:
